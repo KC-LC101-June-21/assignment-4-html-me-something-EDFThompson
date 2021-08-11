@@ -1,1 +1,36 @@
-/* Write your CSS here! */
+h1 {
+    color:black;
+
+    text-align: center;
+}
+
+h3 {
+
+    text-align: center;
+
+}
+
+h4 {
+
+    color:black;
+
+    text-align: center;
+}
+
+p {
+    color:black;
+}
+
+body {
+    /* border-left: 10px solid rgb(202, 117, 6); */
+    /* background-color:rgba(47, 102, 153, 0.932); */
+    background-image:url(images/bg1.jpg);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
